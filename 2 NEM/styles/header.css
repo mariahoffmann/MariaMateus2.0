@@ -1,0 +1,50 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 1em 0;
+}
+
+main {
+    padding: 2em;
+}
+
+.book {
+    border: 1px solid #ddd;
+    padding: 1em;
+    margin-bottom: 1em;
+}
+
+.book img {
+    max-width: 100%;
+}
+
+.price {
+    color: #e44d26;
+    font-weight: bold;
+}
+
+.buy-button {
+    background-color: #e44d26;
+    color: #fff;
+    border: none;
+    padding: 0.5em 1em;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+.buy-button:hover {
+    background-color: #c6321d;
+}
+.corAmarelo{
+    color: yellow;
+}
+.fundo{
+    background-color: #000000;
+}
